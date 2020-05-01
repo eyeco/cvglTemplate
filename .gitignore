@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# VS
+prj/int/
+prj/.vs/
+**/*.pdb
+**/*.cap
+**/*.mat
+**/*.ilk
+**/*.iobj
+**/*.ipdb
+
+# other
+*.ini
