@@ -1,7 +1,7 @@
 # cvglTemplate
 template for c++ applications combining OpenGL and OpenCV
 
-NOTE: wip, descrioption will follow
+NOTE: wip, description will follow
 
 ## Prerequisites
 
